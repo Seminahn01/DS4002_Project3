@@ -1,1 +1,1 @@
-
+The script 'Snake_ID' contains all steps of the code including installing packages, data organizing and processing, EDA, analysis, and evaluating the model. No other scripts are needed to reproduce the results.
