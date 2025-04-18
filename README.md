@@ -43,7 +43,9 @@ Follow the steps below to reproduce our analysis and model training process from
 ### Step 1. Set Up Your Environment 
 This step can be either in Google Colab or in Python 
 ### Step 2. Organize the Dataset
-Open and run the first section in Snake_ID.ipynb called **Organizing Data**. This section will:
+Open and run the first section in Snake_ID.ipynb called **Organizing Data**. The DATA folder contains a file called Snake_Species_ID_dataset.md with a link to the Google Drive where the dataset is hosted. Move this dataset to your own Drive and update any "YOUR PATH HERE" prompts in the script to access the data and run the code.
+
+This section will:
 
 - Parse the JSON annotation files for train, valid, and test sets
 
